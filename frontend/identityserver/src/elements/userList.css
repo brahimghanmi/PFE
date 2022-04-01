@@ -1,0 +1,31 @@
+.main-sidebar{
+    height: 100vh !important;;
+
+}
+.col-md-4{
+padding-left: 60!important;
+
+}
+
+  .custom{
+      width:80%;
+  }
+  .userListDelete{
+    color: red;
+    cursor: pointer;
+}
+.userListEdit{
+    border: none;
+    border-radius: 10px;
+    /* padding: 5px 10px; */
+    /* background-color: #3bb077; */
+    color: green;
+    cursor: pointer;
+    margin-right: 20px;
+    font-size: large;
+}
+.details{
+    color:blue;
+    cursor:pointer;
+    margin-right:20px;
+}
